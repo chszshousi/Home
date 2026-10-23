@@ -2,6 +2,6 @@
   "versionCode": 2,
   "versionName": "1.0.1",
   "updateLog": "修复降雨展示bug，优化预警推送",
-  "downloadUrl": "https://github.com/你的用户名/weather-update/releases/download/v1.0.1/app-release.apk",
-  "forceUpdate": false
+  "downloadUrl": "https://github.com/chszshousi/weather-update/releases/download/v1.0.1/app-release.apk",
+  "forceUpdate": true
 }
